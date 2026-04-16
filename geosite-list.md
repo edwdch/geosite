@@ -1,6 +1,6 @@
 # Geosite List
 
-Total: 1434 files
+Total: 1435 files
 
 ## Category (108)
 
@@ -115,7 +115,7 @@ Total: 1434 files
 | category-web-archive | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/category-web-archive) |
 | category-wiki-cn | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/category-wiki-cn) |
 
-## Others (1326)
+## Others (1327)
 
 | Name | Source |
 | --- | --- |
@@ -1354,6 +1354,7 @@ Total: 1434 files
 | westerndigital | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/westerndigital) |
 | whatsapp | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/whatsapp) |
 | wholefoodsmarket | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/wholefoodsmarket) |
+| whoosh | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/whoosh) |
 | wikidot | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/wikidot) |
 | wikihow | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/wikihow) |
 | wikimedia | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/wikimedia) |
