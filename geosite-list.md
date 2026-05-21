@@ -1,8 +1,8 @@
 # Geosite List
 
-Total: 1471 files
+Total: 1472 files
 
-## Category (111)
+## Category (112)
 
 | Name | Source |
 | --- | --- |
@@ -107,6 +107,7 @@ Total: 1471 files
 | category-social-media-cn | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/category-social-media-cn) |
 | category-social-media-ir | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/category-social-media-ir) |
 | category-speedtest | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/category-speedtest) |
+| category-stun | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/category-stun) |
 | category-tech-ir | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/category-tech-ir) |
 | category-tech-media | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/category-tech-media) |
 | category-tm | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/category-tm) |
