@@ -1,6 +1,6 @@
 # Geosite List
 
-Total: 1473 files
+Total: 1474 files
 
 ## Category (112)
 
@@ -119,7 +119,7 @@ Total: 1473 files
 | category-web-archive | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/category-web-archive) |
 | category-wiki-cn | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/category-wiki-cn) |
 
-## Others (1361)
+## Others (1362)
 
 | Name | Source |
 | --- | --- |
@@ -1338,6 +1338,7 @@ Total: 1473 files
 | unionpay | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/unionpay) |
 | unity | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/unity) |
 | unitychina | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/unitychina) |
+| uoliv | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/uoliv) |
 | upai | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/upai) |
 | usersdrive | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/usersdrive) |
 | uu-chat | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/uu-chat) |
