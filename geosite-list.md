@@ -1,6 +1,6 @@
 # Geosite List
 
-Total: 1475 files
+Total: 1478 files
 
 ## Category (112)
 
@@ -119,7 +119,7 @@ Total: 1475 files
 | category-web-archive | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/category-web-archive) |
 | category-wiki-cn | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/category-wiki-cn) |
 
-## Others (1363)
+## Others (1366)
 
 | Name | Source |
 | --- | --- |
@@ -182,6 +182,7 @@ Total: 1475 files
 | aliyun | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/aliyun) |
 | aliyun-drive | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/aliyun-drive) |
 | aljazeera | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/aljazeera) |
+| alphabet | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/alphabet) |
 | amap | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/amap) |
 | amazon | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/amazon) |
 | amazontrust | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/amazontrust) |
@@ -1106,9 +1107,11 @@ Total: 1475 files
 | roblox | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/roblox) |
 | rockstar | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/rockstar) |
 | roku | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/roku) |
+| rossiyasegodnya | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/rossiyasegodnya) |
 | rostelecom | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/rostelecom) |
 | rsshub | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/rsshub) |
 | rsshub-3rd | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/rsshub-3rd) |
+| rt | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/rt) |
 | rthk | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/rthk) |
 | ruanmei | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/ruanmei) |
 | ruby | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/ruby) |
