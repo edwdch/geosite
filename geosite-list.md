@@ -1,8 +1,8 @@
 # Geosite List
 
-Total: 1479 files
+Total: 1489 files
 
-## Category (112)
+## Category (113)
 
 | Name | Source |
 | --- | --- |
@@ -99,6 +99,7 @@ Total: 1479 files
 | category-ru | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/category-ru) |
 | category-scholar-!cn | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/category-scholar-!cn) |
 | category-scholar-cn | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/category-scholar-cn) |
+| category-scholar-hk | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/category-scholar-hk) |
 | category-scholar-ir | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/category-scholar-ir) |
 | category-scholar-uk | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/category-scholar-uk) |
 | category-securities-cn | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/category-securities-cn) |
@@ -119,7 +120,7 @@ Total: 1479 files
 | category-web-archive | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/category-web-archive) |
 | category-wiki-cn | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/category-wiki-cn) |
 
-## Others (1367)
+## Others (1376)
 
 | Name | Source |
 | --- | --- |
@@ -351,6 +352,7 @@ Total: 1479 files
 | cisco | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/cisco) |
 | citic | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/citic) |
 | citizenlab | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/citizenlab) |
+| cityu-hk | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/cityu-hk) |
 | ciweimao | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/ciweimao) |
 | ck101 | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/ck101) |
 | clarivate | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/clarivate) |
@@ -404,6 +406,7 @@ Total: 1479 files
 | ctexcel | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/ctexcel) |
 | ctrip | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/ctrip) |
 | ctyun | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/ctyun) |
+| cuhk | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/cuhk) |
 | cuinc | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/cuinc) |
 | curseforge | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/curseforge) |
 | cursor | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/cursor) |
@@ -482,6 +485,7 @@ Total: 1479 files
 | ebay | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/ebay) |
 | ebuyer | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/ebuyer) |
 | economist | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/economist) |
+| eduhk | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/eduhk) |
 | edx | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/edx) |
 | egghead | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/egghead) |
 | ehentai | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/ehentai) |
@@ -641,13 +645,17 @@ Total: 1479 files
 | hikvision | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/hikvision) |
 | hinet | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/hinet) |
 | hinet-eca | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/hinet-eca) |
+| hisense | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/hisense) |
 | hitun | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/hitun) |
 | hkbn | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/hkbn) |
+| hkbu | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/hkbu) |
 | hkedcity | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/hkedcity) |
 | hketgroup | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/hketgroup) |
 | hkgolden | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/hkgolden) |
 | hkopentv | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/hkopentv) |
 | hkt | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/hkt) |
+| hku | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/hku) |
+| hkust | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/hkust) |
 | hm | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/hm) |
 | homebrew | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/homebrew) |
 | homedepot | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/homedepot) |
@@ -670,6 +678,7 @@ Total: 1479 files
 | huggingface | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/huggingface) |
 | hujiang | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/hujiang) |
 | hulu | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/hulu) |
+| humblebundle | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/humblebundle) |
 | hunantv | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/hunantv) |
 | huobi | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/huobi) |
 | hupu | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/hupu) |
@@ -1045,6 +1054,7 @@ Total: 1479 files
 | poe | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/poe) |
 | polocloud | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/polocloud) |
 | polymer | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/polymer) |
+| polyu | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/polyu) |
 | polyv | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/polyv) |
 | pornhub | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/pornhub) |
 | pornpros | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/pornpros) |
