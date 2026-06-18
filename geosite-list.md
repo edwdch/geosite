@@ -1,8 +1,8 @@
 # Geosite List
 
-Total: 1500 files
+Total: 1501 files
 
-## Category (113)
+## Category (114)
 
 | Name | Source |
 | --- | --- |
@@ -32,6 +32,7 @@ Total: 1500 files
 | category-collaborate-cn | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/category-collaborate-cn) |
 | category-communication | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/category-communication) |
 | category-companies | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/category-companies) |
+| category-consent-management | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/category-consent-management) |
 | category-container | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/category-container) |
 | category-cryptocurrency | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/category-cryptocurrency) |
 | category-ddns | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/category-ddns) |
