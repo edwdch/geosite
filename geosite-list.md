@@ -1,6 +1,6 @@
 # Geosite List
 
-Total: 1548 files
+Total: 1549 files
 
 ## Category (121)
 
@@ -128,7 +128,7 @@ Total: 1548 files
 | category-web-archive | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/category-web-archive) |
 | category-wiki-cn | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/category-wiki-cn) |
 
-## Others (1427)
+## Others (1428)
 
 | Name | Source |
 | --- | --- |
@@ -570,6 +570,7 @@ Total: 1548 files
 | flowus | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/flowus) |
 | flowwow | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/flowwow) |
 | flutter | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/flutter) |
+| fluxer | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/fluxer) |
 | flyio | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/flyio) |
 | focuschina | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/focuschina) |
 | fonbet | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/fonbet) |
